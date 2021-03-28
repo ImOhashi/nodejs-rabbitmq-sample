@@ -1,4 +1,3 @@
-import { Message } from "amqplib";
 import { Request, Response, Router } from "express";
 
 import rabbit from "../broker/rabbitmq";
